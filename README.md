@@ -1,6 +1,3 @@
-Here's a short and clear `README.md` you can include in your repository to guide users through the installation of `vimbax_camera_msgs`:
-
----
 
 # Vimbax ROS2 Driver
 
